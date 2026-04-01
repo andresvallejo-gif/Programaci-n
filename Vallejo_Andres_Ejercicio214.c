@@ -2,7 +2,7 @@
 int main(int argc, char const *argv[])
 {
     int n , V[100];
-    printf("Ingrese la cantidad de números que desea ingresar ");
+    printf("Ingrese el tamaño del vector");
     scanf("%d", &n);
     for (size_t i = 0; i < n; i++)
     {
